@@ -22,3 +22,9 @@ end
 def square_root(num)
   Math.sqrt(num)
 end
+
+
+#Learning Goals
+# Use Ruby math operations to build a calculator
+# Define instance method
+# Use the Ruby Math class to call a method provided by Ruby
